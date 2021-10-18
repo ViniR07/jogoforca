@@ -138,7 +138,7 @@ void desenhaforca() {
 void chuta() {
 
     char chute;
-    printf("Qual letra? ");
+    printf("Qual letra voce chuta? ");
     scanf(" %c", &chute);
 
     chutes[(chutesdados)] = chute;
